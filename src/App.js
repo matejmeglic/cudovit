@@ -1,6 +1,15 @@
 import "./App.css";
 
 function App() {
+  let CTAs = [
+    "Propose your coworker for an award",
+    "Who should be next on the wall?",
+    "Help us pick the next deserving hero",
+    "Vote for our next exposee",
+    "Who do you admire? Tell the World",
+  ];
+  const randomElement = CTAs[Math.floor(Math.random() * CTAs.length)];
+
   return (
     <div className="App">
       <div id="page-top">
@@ -22,7 +31,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Propose your coworker for award
+                {randomElement}
               </a>
             </div>
           </div>
@@ -31,7 +40,13 @@ function App() {
         <footer class="footer bg-black small text-center text-white-50">
           <div class="container">
             nekineki - an award pool proudly run by Matej Meglič{" "}
-            <strike>gone in 60s</strike> done in 10min xD
+            <strike>gone in 60s</strike> done in 10min on 2021-05-18 xD
+          </div>
+          <br />
+          <div class="container">
+            Disclaimer: This page is not meant for mockery of any sorts but to
+            wholeheartedly expose, worship and congratulate modern day heroes
+            for a day. Thank you.
           </div>
         </footer>
       </div>
