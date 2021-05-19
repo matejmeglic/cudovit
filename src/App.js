@@ -1,6 +1,12 @@
 import "./App.css";
 
 function App() {
+  let holder = ["Nejc Penko"];
+
+  let desc = [
+    "Za OnboardingJSON in vse ostale malenkosti, ki bi jih ostali brez dvoma pozabili. In zato, ker ne maraš exposureja. Zdej pa maš :)",
+  ];
+
   let CTAs = [
     "Propose your coworker for an award",
     "Who should be next on the wall?",
@@ -9,6 +15,8 @@ function App() {
     "Who do you admire? Tell the World",
   ];
   const randomElement = CTAs[Math.floor(Math.random() * CTAs.length)];
+  const holderLast = holder[holder.length - 1];
+  const descLast = desc[desc.length - 1];
 
   return (
     <div className="App">
@@ -19,12 +27,8 @@ function App() {
               <h2 class="text-white-50 mx-auto mt-2 mb-5">
                 This week's (until further notice) award goes to
               </h2>
-              <h1 class="mx-auto my-0 text-uppercase">Nejc Penko</h1>
-              <h2 class="text-white-50 mx-auto mt-2 mb-5">
-                Za OnboardingJSON in vse ostale malenkosti, ki bi jih ostali
-                brez dvoma pozabili. In zato, ker ne maraš exposureja. Zdej pa
-                maš :)
-              </h2>
+              <h1 class="mx-auto my-0 text-uppercase">{holderLast}</h1>
+              <h2 class="text-white-50 mx-auto mt-2 mb-5">{descLast}</h2>
               <a
                 class="btn btn-primary js-scroll-trigger"
                 href="mailto:matej@matejmeglic.com"
