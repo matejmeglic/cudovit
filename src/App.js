@@ -1,11 +1,12 @@
 import "./App.css";
 
 function App() {
-  let holder = ["Nejc Penko", "Nejc Penko"];
+  let holder = ["Nejc Penko", "Nejc Penko", "Barbara Secko"];
 
   let desc = [
     "Za OnboardingJSON in vse ostale malenkosti, ki bi jih ostali brez dvoma pozabili. In zato, ker ne maraš exposureja. Zdej pa maš :)",
     "Druga zaporedna nagrada za rešen produkcijski problem, ki ga bi sam še vedno (najbrž neuspešno) poskušal reproducirat.",
+    "Za neustrašnost in za pogum povedati stvari tako, kot čutiš.",
   ];
 
   let CTAs = [
