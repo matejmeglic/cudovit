@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   let holder = ["Nejc Penko", "Nejc Penko", "Barbara Secko", "Katja Skafar"];
-  let date = ["2021-04-18", "2021-04-20", "2021-04-25", "2021-04-27"];
+  let datum = ["2021-04-18", "2021-04-20", "2021-04-25", "2021-04-27"];
 
   let desc = [
     "Za OnboardingJSON in vse ostale malenkosti, ki bi jih ostali brez dvoma pozabili. In zato, ker ne maraš exposureja. Zdej pa maš :)",
@@ -21,6 +21,8 @@ function App() {
   const randomElement = CTAs[Math.floor(Math.random() * CTAs.length)];
   const holderLast = holder[holder.length - 1];
   const descLast = desc[desc.length - 1];
+  let datum1 = datum;
+  datum1 = "";
 
   return (
     <div className="App">
@@ -54,7 +56,7 @@ function App() {
           <div class="container">
             Disclaimer: This page is not meant for mockery of any sorts but to
             wholeheartedly expose, worship and congratulate modern day heroes
-            for a day. Thank you.
+            for a day. Thank you.{datum1}
           </div>
         </footer>
       </div>
