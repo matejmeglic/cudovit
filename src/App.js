@@ -1,14 +1,27 @@
 import "./App.css";
 
 function App() {
-  let holder = ["Nejc Penko", "Nejc Penko", "Barbara Secko", "Katja Skafar"];
-  let datum = ["2021-04-18", "2021-04-20", "2021-04-25", "2021-04-27"];
+  let holder = [
+    "Nejc Penko",
+    "Nejc Penko",
+    "Barbara Secko",
+    "Katja Skafar",
+    "Zala Likar",
+  ];
+  let datum = [
+    "2021-04-18",
+    "2021-04-20",
+    "2021-04-25",
+    "2021-04-27",
+    "2021-05-11",
+  ];
 
   let desc = [
     "Za OnboardingJSON in vse ostale malenkosti, ki bi jih ostali brez dvoma pozabili. In zato, ker ne maraš exposureja. Zdej pa maš :)",
     "Druga zaporedna nagrada za rešen produkcijski problem, ki ga bi sam še vedno (najbrž neuspešno) poskušal reproducirat.",
     "Za neustrašnost in za pogum povedati stvari tako, kot čutiš.",
     "Za flawless hospitality service, ki se ga ne bi sramovala niti angleška kraljica. Za pokal, majkemi.",
+    "Življenje vedno naloži vse, kar zmoremo nesti. Ti pa nosiš z nasmehom. Hvala.",
   ];
 
   let CTAs = [
