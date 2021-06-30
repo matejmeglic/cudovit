@@ -7,13 +7,15 @@ function App() {
     "Barbara Secko",
     "Katja Skafar",
     "Zala Likar",
+    "Nejc Kete",
   ];
   let datum = [
     "2021-04-18",
     "2021-04-20",
     "2021-04-25",
     "2021-04-27",
-    "2021-05-11",
+    "2021-06-11",
+    "2021-06-30",
   ];
 
   let desc = [
@@ -22,6 +24,7 @@ function App() {
     "Za neustrašnost in za pogum povedati stvari tako, kot čutiš.",
     "Za flawless hospitality service, ki se ga ne bi sramovala niti angleška kraljica. Za pokal, majkemi.",
     "Življenje vedno naloži vse, kar zmoremo nesti. Ti pa nosiš z nasmehom. Hvala.",
+    "Hvala ti za vsa skakanja sem-ter-tja in focus-pulling ter nasmeške, ko ti že četrtič prekinem flow.",
   ];
 
   let CTAs = [
