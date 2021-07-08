@@ -8,6 +8,7 @@ function App() {
     "Katja Skafar",
     "Zala Likar",
     "Nejc Kete",
+    "Vika Kralj",
   ];
   let datum = [
     "2021-04-18",
@@ -16,6 +17,7 @@ function App() {
     "2021-04-27",
     "2021-06-11",
     "2021-06-30",
+    "2021-07-08",
   ];
 
   let desc = [
@@ -25,6 +27,7 @@ function App() {
     "Za flawless hospitality service, ki se ga ne bi sramovala niti angleška kraljica. Za pokal, majkemi.",
     "Življenje vedno naloži vse, kar zmoremo nesti. Ti pa nosiš z nasmehom. Hvala.",
     "Hvala ti za vsa skakanja sem-ter-tja in focus-pulling ter nasmeške, ko ti že četrtič prekinem flow.",
+    "Prideš, vzameš, pofuraš, zmagaš cel projekt. Z lahkoto, navkljub SOAP apijem, ki vrnejo še en XML.",
   ];
 
   let CTAs = [
