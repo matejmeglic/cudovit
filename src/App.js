@@ -9,7 +9,7 @@ function App() {
     "Zala Likar",
     "Nejc Kete",
     "Vika Kralj",
-    "David Bojanovič",
+    "David Bojanovic",
   ];
   let datum = [
     "2021-04-18",
