@@ -30,7 +30,7 @@ function App() {
     "Življenje vedno naloži vse, kar zmoremo nesti. Ti pa nosiš z nasmehom. Hvala.",
     "Hvala ti za vsa skakanja sem-ter-tja in focus-pulling ter nasmeške, ko ti že četrtič prekinem flow.",
     "Prideš, vzameš, pofuraš, zmagaš cel projekt. Z lahkoto, navkljub SOAP apijem, ki vrnejo še en XML.",
-    "JFDI",
+    "JFDI 4life",
   ];
 
   let CTAs = [
