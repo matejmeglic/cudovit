@@ -36,7 +36,7 @@ function App() {
     "Prideš, vzameš, pofuraš, zmagaš cel projekt. Z lahkoto, navkljub SOAP apijem, ki vrnejo še en XML.",
     "JFDI 4life",
     "Hvala za trud!",
-    "Hvala za vse, kar nezavedno narediš zato, da nam je omogočeno uspeti.",
+    "Hvala za vse, kar nezavedno narediš zato, da nam je pot do uspeha tlakovana z najboljšo podlago.",
   ];
 
   let CTAs = [
