@@ -11,6 +11,7 @@ function App() {
     "Vika Kralj",
     "David Bojanovic",
     "Nejc Kete",
+    "Urska Herbst",
   ];
   let datum = [
     "2021-04-18",
@@ -22,6 +23,7 @@ function App() {
     "2021-07-08",
     "2021-09-20",
     "2021-10-11",
+    "2021-12-22",
   ];
 
   let desc = [
@@ -34,6 +36,7 @@ function App() {
     "Prideš, vzameš, pofuraš, zmagaš cel projekt. Z lahkoto, navkljub SOAP apijem, ki vrnejo še en XML.",
     "JFDI 4life",
     "Hvala za trud!",
+    "Hvala za vse, kar nezavedno narediš zato, da nam je omogočeno uspeti.",
   ];
 
   let CTAs = [
