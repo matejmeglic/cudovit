@@ -36,7 +36,7 @@ function App() {
     "Prideš, vzameš, pofuraš, zmagaš cel projekt. Z lahkoto, navkljub SOAP apijem, ki vrnejo še en XML.",
     "JFDI 4life",
     "Hvala za trud!",
-    "Hvala za vse, kar nezavedno narediš zato, da nam je pot do uspeha tlakovana z najboljšo podlago.",
+    "Hvala za vse, kar nezavedno narediš zato, da nam je pot do uspeha tlakovana z najboljšo podlago in da so vsa vrata vedno odprta. In da ti ni težko še četrtič razložit conversion definitiona.",
   ];
 
   let CTAs = [
