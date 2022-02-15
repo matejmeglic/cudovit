@@ -42,7 +42,7 @@ function App() {
     "Hvala za trud!",
     "Hvala za vse, kar nezavedno narediš zato, da nam je pot do uspeha tlakovana z najboljšo podlago in da so vsa vrata vedno odprta. In da ti ni težko še četrtič razložit conversion definitiona.",
     "Ker znaš narest čist hude tekste on-the-fly in se it gverila marketing.",
-    "Hvala, ker se vedno oglasiš, brez tebe bi se še vedno prijavljal v sistem.",
+    "Hvala, ker pomagaš tudi ob najbolj čudnih urah, brez tebe bi se najbrž še vedno prijavljali v sistem.",
   ];
 
   let CTAs = [
