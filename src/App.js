@@ -14,6 +14,7 @@ function App() {
     "Urska Herbst",
     "Mitja Godnič",
     "Barbara Bizjak",
+    "Tilen Kusterle",
   ];
   let datum = [
     "2021-04-18",
@@ -28,6 +29,7 @@ function App() {
     "2021-12-22",
     "2022-02-04",
     "2022-02-15",
+    "2022-02-24",
   ];
 
   let desc = [
@@ -43,6 +45,7 @@ function App() {
     "Hvala za vse, kar nezavedno narediš zato, da nam je pot do uspeha tlakovana z najboljšo podlago in da so vsa vrata vedno odprta. In da ti ni težko še četrtič razložit conversion definitiona.",
     "Ker znaš narest čist hude tekste on-the-fly in se it gverila marketing.",
     "Hvala, ker pomagaš tudi ob najbolj čudnih urah, brez tebe bi se najbrž še vedno prijavljali v sistem.",
+    "Hvala, ker se v vsako težavo poženeš z glavo naprej in vedno pomagaš z nasmehom.",
   ];
 
   let CTAs = [
