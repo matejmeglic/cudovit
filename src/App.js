@@ -54,7 +54,7 @@ function App() {
     "Hvala, ker se v vsako težavo poženeš z glavo naprej in vedno pomagaš z nasmehom.",
     "Hvala, da po osmih urah dela skočiš še na 404 adGroupe in rešiš vikend.",
     "Če že ne uspeva s klavirjem, zrihtaš najlepšo lučko na svetu. Hvala.",
-    "Nič ne ostane neopaženo. Imej lep dan."
+    "Nič ne ostane neopaženo. Radi te imamo, pojemo, igramo."
   ];
 
   let CTAs = [
