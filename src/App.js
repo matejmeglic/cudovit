@@ -17,7 +17,8 @@ function App() {
     "Tilen Kusterle",
     "Matjaž Šuber",
     "Jera Rot",
-    "Vida Kern"
+    "Vida Kern",
+    "Jan Holas"
   ];
   let datum = [
     "2021-04-18",
@@ -35,7 +36,8 @@ function App() {
     "2022-02-24",
     "2022-04-15",
     "2022-04-25",
-    "2022-05-01"
+    "2022-05-01",
+    "2022-05-13"
   ];
 
   let desc = [
@@ -54,7 +56,8 @@ function App() {
     "Hvala, ker se v vsako težavo poženeš z glavo naprej in vedno pomagaš z nasmehom.",
     "Hvala, da po osmih urah dela skočiš še na 404 adGroupe in rešiš vikend.",
     "Če že ne uspeva s klavirjem, zrihtaš najlepšo lučko na svetu. Hvala.",
-    "Nič ne ostane neopaženo. Radi te imamo, pojemo, igramo."
+    "Nič ne ostane neopaženo. Radi te imamo, pojemo, igramo.",
+    "Thank you for always stepping up and saving the day. Even on Friday afternoon."
   ];
 
   let CTAs = [
