@@ -20,7 +20,8 @@ function App() {
     "Vida Kern",
     "Jan Holas",
     "Tadej Pavlič",
-    "Neja in Jure H"
+    "Neja in Jure H",
+"Nejc Saje"
   ];
   let datum = [
     "2021-04-18",
@@ -41,7 +42,8 @@ function App() {
     "2022-05-01",
     "2022-05-13",
     "2022-06-07",
-    "2022-08-25"
+    "2022-08-25",
+"2022-10-07"
   ];
 
   let desc = [
@@ -63,7 +65,8 @@ function App() {
     "Nič ne ostane neopaženo. Radi te imamo, pojemo, igramo.",
     "Thank you for always stepping up and saving the day. Even on Friday afternoon.",
    "Čestitke za najpogumnejši korak v življenju",
-    "Čestitke za spremembo priimka in vse, kar pride zraven"
+    "Čestitke za spremembo priimka in vse, kar pride zraven",
+"Brez tebe bomo dolgo izgubljeno tavali v temi. Hvala."
   ];
 
   let CTAs = [
