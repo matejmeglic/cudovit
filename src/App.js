@@ -66,7 +66,7 @@ function App() {
     "Thank you for always stepping up and saving the day. Even on Friday afternoon.",
    "Čestitke za najpogumnejši korak v življenju",
     "Čestitke za spremembo priimka in vse, kar pride zraven",
-"Brez tebe bomo dolgo izgubljeno tavali v temi. Hvala."
+"Brez tebe bomo še dolgo tavali v temi. Hvala ker si."
   ];
 
   let CTAs = [
